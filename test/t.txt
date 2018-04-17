@@ -1,5 +1,1 @@
-test sample
-good
-yeah
-baby
-hehe
+test sample good yeah baby hehe
