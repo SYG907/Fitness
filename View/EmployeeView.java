@@ -1,4 +1,4 @@
-package test;
+package View;
 
 public class EmployeeView {
 
